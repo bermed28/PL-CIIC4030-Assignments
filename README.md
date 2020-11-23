@@ -7,7 +7,7 @@ Below is a table that summarizes the assignments and the languages that was used
 Assigments  | Language |
 ----------- | -------- |
 Lexer for Scheme | Scheme | 
-Parser in Pythin | Python |
+Parser in Python | Python |
 Memory Management | C |
 Concurrency in Scala | Scala |
 Go-Routines and Channels | Go |
