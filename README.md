@@ -1,6 +1,6 @@
 # Programming Languages Assignments
 
-This is a repo that holsa all of the assignments from the CIIC4030 course
+This is a repo that holds all of the assignments from the CIIC4030 course
 
 Below is a table that summarizes the assignments and the languages that was used
 
